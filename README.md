@@ -10,3 +10,4 @@ Create webhook, view & delete active webhooks.
 - run `npm install` and `npm run dev`
 - log in with your Lobo API user (webhook/webhookevents CRUD rights must be enabled for this user)
 
+![webhooks](https://github.com/andrinheusser/lobo-webhooks/assets/318474/83d0badc-a745-4c7d-adb4-ed81b5368a1b)
